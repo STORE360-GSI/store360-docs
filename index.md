@@ -1,5 +1,7 @@
 # Store360
-
+- [Funzionalità](funzionalita.md)
+- [Integrazioni](integrazioni.md)
+- [API](https://store360.readme.io)
 ## Cos’è Store360
 **Store360** è una piattaforma modulare per la gestione e l’integrazione dei processi di **e-commerce**, **vendita multicanale** e **integrazione con sistemi esterni**.
 
